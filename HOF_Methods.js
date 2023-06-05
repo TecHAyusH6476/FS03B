@@ -18,3 +18,5 @@ const num = [1, 3, 6, 5, 4]
 const filterRes = num.filter((num) => num % 2 == 0)
 
 console.log(filterRes)
+
+// - array or array of objects (JSON) related queries -> Map, filter , reduce
